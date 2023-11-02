@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "image": "/images/user.jpg",
+    "title": "Product 1",
+    "description": "Description for Product 1",
+    "price": 19.99,
+    "category": "Category A"
+  },
+  {
+    "id": 2,
+    "image": "/images/user.jpg",
+    "title": "Product 2",
+    "description": "Description for Product 2",
+    "price": 29.99,
+    "category": "Category B"
+  },
+  {
+    "id": 3,
+    "image": "/images/user.jpg",
+    "title": "Product 3",
+    "description": "Description for Product 3",
+    "price": 14.99,
+    "category": "Category A"
+  },
+  {
+    "id": 4,
+    "image": "/images/user.jpg",
+    "title": "Product 4",
+    "description": "Description for Product 4",
+    "price": 39.99,
+    "category": "Category C"
+  },
+  {
+    "id": 5,
+    "image": "/images/user.jpg",
+    "title": "Product 5",
+    "description": "Description for Product 5",
+    "price": 49.99,
+    "category": "Category B"
+  },
+  {
+    "id": 6,
+    "image": "/images/user.jpg",
+    "title": "Product 6",
+    "description": "Description for Product 6",
+    "price": 24.99,
+    "category": "Category A"
+  },
+  {
+    "id": 7,
+    "image": "/images/user.jpg",
+    "title": "Product 7",
+    "description": "Description for Product 7",
+    "price": 9.99,
+    "category": "Category C"
+  },
+  {
+    "id": 8,
+    "image": "/images/user.jpg",
+    "title": "Product 8",
+    "description": "Description for Product 8",
+    "price": 34.99,
+    "category": "Category B"
+  },
+  {
+    "id": 9,
+    "image": "/images/user.jpg",
+    "title": "Product 9",
+    "description": "Description for Product 9",
+    "price": 27.99,
+    "category": "Category A"
+  },
+  {
+    "id": 10,
+    "image": "/images/user.jpg",
+    "title": "Product 10",
+    "description": "Description for Product 10",
+    "price": 19.99,
+    "category": "Category A"
+  },
+  {
+    "id": 11,
+    "image": "/images/user.jpg",
+    "title": "Product 11",
+    "description": "Description for Product 11",
+    "price": 21.99,
+    "category": "Category B"
+  },
+  {
+    "id": 12,
+    "image": "/images/user.jpg",
+    "title": "Product 12",
+    "description": "Description for Product 12",
+    "price": 17.99,
+    "category": "Category C"
+  },
+  {
+    "id": 13,
+    "image": "/images/user.jpg",
+    "title": "Product 13",
+    "description": "Description for Product 13",
+    "price": 15.99,
+    "category": "Category A"
+  },
+  {
+    "id": 14,
+    "image": "/images/user.jpg",
+    "title": "Product 14",
+    "description": "Description for Product 14",
+    "price": 31.99,
+    "category": "Category B"
+  },
+  {
+    "id": 15,
+    "image": "/images/user.jpg",
+    "title": "Product 15",
+    "description": "Description for Product 15",
+    "price": 12.99,
+    "category": "Category C"
+  },
+  {
+    "id": 16,
+    "image": "/images/user.jpg",
+    "title": "Product 16",
+    "description": "Description for Product 16",
+    "price": 22.99,
+    "category": "Category A"
+  },
+  {
+    "id": 17,
+    "image": "/images/user.jpg",
+    "title": "Product 17",
+    "description": "Description for Product 17",
+    "price": 11.99,
+    "category": "Category A"
+  },
+  {
+    "id": 18,
+    "image": "/images/user.jpg",
+    "title": "Product 18",
+    "description": "Description for Product 18",
+    "price": 26.99,
+    "category": "Category B"
+  },
+  {
+    "id": 19,
+    "image": "/images/user.jpg",
+    "title": "Product 19",
+    "description": "Description for Product 19",
+    "price": 35.99,
+    "category": "Category C"
+  },
+  {
+    "id": 20,
+    "image": "/images/user.jpg",
+    "title": "Product 20",
+    "description": "Description for Product 20",
+    "price": 18.99,
+    "category": "Category A"
+  },
+  {
+    "id": 21,
+    "image": "/images/user.jpg",
+    "title": "Product 21",
+    "description": "Description for Product 21",
+    "price": 14.99,
+    "category": "Category B"
+  },
+  {
+    "id": 22,
+    "image": "/images/user.jpg",
+    "title": "Product 22",
+    "description": "Description for Product 22",
+    "price": 29.99,
+    "category": "Category C"
+  },
+  {
+    "id": 23,
+    "image": "/images/user.jpg",
+    "title": "Product 23",
+    "description": "Description for Product 23",
+    "price": 23.99,
+    "category": "Category A"
+  },
+  {
+    "id": 24,
+    "image": "/images/user.jpg",
+    "title": "Product 24",
+    "description": "Description for Product 24",
+    "price": 19.99,
+    "category": "Category A"
+  },
+  {
+    "id": 25,
+    "image": "/images/user.jpg",
+    "title": "Product 25",
+    "description": "Description for Product 25",
+    "price": 21.99,
+    "category": "Category B"
+  },
+  {
+    "id": 26,
+    "image": "/images/user.jpg",
+    "title": "Product 26",
+    "description": "Description for Product 26",
+    "price": 27.99,
+    "category": "Category C"
+  },
+  {
+    "id": 27,
+    "image": "/images/user.jpg",
+    "title": "Product 27",
+    "description": "Description for Product 27",
+    "price": 16.99,
+    "category": "Category A"
+  },
+  {
+    "id": 28,
+    "image": "/images/user.jpg",
+    "title": "Product 28",
+    "description": "Description for Product 28",
+    "price": 34.99,
+    "category": "Category B"
+  },
+  {
+    "id": 29,
+    "image": "/images/user.jpg",
+    "title": "Product 29",
+    "description": "Description for Product 29",
+    "price": 39.99,
+    "category": "Category C"
+  }
+]

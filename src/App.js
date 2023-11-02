@@ -1,25 +1,39 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import styled from "styled-components";
+import ProductList from "./components/ProductList";
+import Filter from "./components/Filter";
 
-function App() {
+const AppWrapper = styled.div`
+  margin: 50px 150px auto 150px;
+  padding: 10px 20px;
+  background-color: purple;
+  
+  @media (max-width: 1200px) {
+    margin: 0;
+  }
+`;
+
+const AppTitle = styled.h1`
+  font-size: 30px;
+  color: white;
+`;
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <AppWrapper>
+        <AppTitle>Product List</AppTitle>
+        <Filter />
+        <Routes>
+          <Route path="/" element={<ProductList />} />
+          <Route
+            path="/filter/:category/sort/:sortOrder/page/:page"
+            element={<ProductList />}
+          />
+        </Routes>
+      </AppWrapper>
+    </Router>
   );
-}
+};
 
 export default App;
